@@ -1,16 +1,28 @@
-### Hi there 👋
+# README.md
+<h1 align="center">Welcome to Satanas 👋</h1>
+  <a href="https://twitter.com/DiscordSatan" target="_blank">
+    <img alt="Twitter: DiscordSatan" src="https://img.shields.io/twitter/follow/DiscordSatan.svg?style=social" />
+  </a>
+</p>
+<ul>
+   <li>🌱Actually I'm learning C#</li>
+   <li>💎Dsc.bio/satanjs7</li>
+   <li>👯 I’m looking to collaborate with other developers.</li>
+   <li>📫 How to reach me : Discord/Twitter/Email</li>
+</ul>
 
-<!--
-**SatanasJs7/SatanasJs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 [Homepage](https://github.com/SatanasJs7)
 
-Here are some ideas to get you started:
+## Author
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 **Satan.js7**
+
+* Website: https://charlotte-fanpage.000webhostapp.com/
+* Twitter: [@DiscordSatan](https://twitter.com/DiscordSatan)
+* Github: [@SatanasJs7](https://github.com/SatanasJs7)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+![Cover](https://github.com/SatanasJs7/README.md/blob/main/img/banner_Rias_basic3-0.png)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SatanasJs7&show_icons=true&theme=tokyonight)

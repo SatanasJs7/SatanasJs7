@@ -24,5 +24,5 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-![Cover](https://github.com/SatanasJs7/README.md/blob/main/img/banner_Rias_basic3-0.png)
+![Cover](https://github.com/SatanasJs7/SatanasJs7/blob/main/img/banner_Rias_basic3-0.png)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SatanasJs7&show_icons=true&theme=tokyonight)

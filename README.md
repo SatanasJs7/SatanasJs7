@@ -1,6 +1,6 @@
 # README.md
 <h1 align="center">Welcome to Satanas 👋</h1>
-  <a href="https://twitter.com/DiscordSatan" target="_blank">
+  <a href="https://twitter.com/DSCKaito" target="_blank">
     <img alt="Twitter: DiscordSatan" src="https://img.shields.io/twitter/follow/DiscordSatan.svg?style=social" />
   </a>
 </p>

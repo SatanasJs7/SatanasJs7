@@ -5,7 +5,7 @@
   </a>
 </p>
 <ul>
-   <li>🌱Currently I'm learning C#</li>
+   <li>🌱Currently I'm learning C</li>
    <li>💎Dsc.bio/satanjs7</li>
    <li>👯 I’m looking to collaborate with other developers.</li>
    <li>📫 How to reach me : Discord/Twitter/Email</li>
@@ -17,8 +17,8 @@
 
 👤 **Satan.js7**
 
-* Website: https://charlotte-fanpage.000webhostapp.com/
-* Twitter: [@DiscordSatan](https://twitter.com/DiscordSatan)
+* Website: SOON
+* Twitter: [@DiscordSatan](https://twitter.com/DSCKaito)
 * Github: [@SatanasJs7](https://github.com/SatanasJs7)
 
 ## Show your support

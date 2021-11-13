@@ -5,7 +5,7 @@
   </a>
 </p>
 <ul>
-   <li>🌱Currently I'm learning C</li>
+   <li>🌱Currently I'm learning C and NASM</li>
    <li>💎Dsc.bio/satanjs7</li>
    <li>👯 I’m looking to collaborate with other developers.</li>
    <li>📫 How to reach me : Discord/Twitter/Email</li>

@@ -18,7 +18,7 @@
 👤 **Satan.js7**
 
 * Website: SOON
-* Twitter: [@DiscordSatan](https://twitter.com/DSCKaito)
+* Twitter: [@DSCKaito](https://twitter.com/DSCKaito)
 * Github: [@SatanasJs7](https://github.com/SatanasJs7)
 
 ## Show your support
